@@ -1,4 +1,4 @@
 erreq
 =====
 
-An extension of the golang Error interface which supports equality checking
+The erreq package defines an extension of the error interface which supports equality checking.
