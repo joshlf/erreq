@@ -1,5 +1,5 @@
-grammar/example
-===============
+erreq/example
+=============
 
 ###Use
 
